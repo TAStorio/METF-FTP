@@ -1,0 +1,11 @@
+{
+    "name": "METF FTP",
+    "version": "0.0.0",
+    "title": "METF-FTP",
+    "author": "IQuick 143",
+    "contact": "",
+    "homepage": "https://github.com/TAStorio/METF-FTP",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "A mod enabling trans-Factorio communication for Factorio TASing purposes."
+}
